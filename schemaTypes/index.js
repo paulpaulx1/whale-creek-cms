@@ -1,3 +1,4 @@
-import project from './project'
-
-export const schemaTypes = [project]
+import project from './project';
+  import blogPost from './blogPost';
+  
+  export const schemaTypes = [project, blogPost];
